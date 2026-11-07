@@ -47,4 +47,3 @@ jobs:
         with:
           name: Tuno-Grow-APK
           path: project/app/build/outputs/apk/debug/*.apk
-￼Enter
